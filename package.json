@@ -1,0 +1,5 @@
+"scripts": {
+  "test": "jest",
+  "test:unit": "jest --coverage",
+  "test:integration": "jest --config jest.integration.config.js"
+}
