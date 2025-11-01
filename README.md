@@ -71,7 +71,8 @@ cd ../client && npm install
 
 3. Configure environment variables
 
-In server/.env:mongodb+srv://hsaid_db_user:<db_password>@cluster0.ovud7n8.mongodb.net/mowasco123?appName=Cluster0
+In server/.env:
+mongodb+srv://hsaid_db_user:<db_password>@cluster0.ovud7n8.mongodb.net/mowasco123?appName=Cluster0
 In client/.env:
 
 REACT_APP_API_URL=http://localhost:5000
