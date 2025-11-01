@@ -1,6 +1,3 @@
-
-a clean, sponsor-polished README.md tailored for your WaterWise MERN stack project — ready for GitHub, Vercel, Render, and stakeholder demos:
-
 # 💧 WaterWise: Smart Community Water Usage Tracker
 
 WaterWise is a modular MERN stack application designed for smart city deployment. It helps communities monitor household water usage, detect leaks, and generate sponsor-ready reports. Built for Mombasa Water and field technician workflows, it supports real-time alerts, Excel exports, and branded dashboards.
