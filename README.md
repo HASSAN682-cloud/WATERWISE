@@ -61,7 +61,7 @@ waterwise/
 
 1. Clone the repo
 
-git clone https://github.com/your-username/waterwise.git
+git clone https://github.com/HASSAN682-cloud/WATERWISE.git
 cd waterwise
 
 2. Install dependencies
